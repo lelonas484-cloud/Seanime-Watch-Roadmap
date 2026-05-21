@@ -12,7 +12,7 @@
     "readme": "",
     "notes": "Uses data from Bas1874/Anime-Watch-Order-Api (r/anime wiki scraper). Shows a visual roadmap with step numbers, connectors, badges and clickable nodes to navigate between anime entries.",
     "lang": "multi",
-    "payloadURI": "",
+    "payloadURI": "https://raw.githubusercontent.com/lelonas484-cloud/Seanime-Watch-Roadmap/refs/heads/main/src/plugin.ts",
     "plugin": {
         "version": "1",
         "permissions": {
